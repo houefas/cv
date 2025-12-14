@@ -72,3 +72,47 @@ body {
     object-fit: cover;
     border: 2px solid #000;
 }
+.cv-section h2 {
+    background-color: #f1f5f9;
+    color: #0f172a;
+    padding: 8px 12px;
+    border-radius: 6px;
+}
+/* Style commun à tous les grands titres */
+.cv-section h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    border-left: 6px solid;
+}
+
+/* Couleurs par section */
+.title-a {
+    color: #1abc9c;      /* vert turquoise */
+    border-color: #1abc9c;
+}
+
+.title-b {
+    color: #3498db;      /* bleu */
+    border-color: #3498db;
+}
+
+.title-c {
+    color: #9b59b6;      /* violet */
+    border-color: #9b59b6;
+}
+
+.title-d {
+    color: #e67e22;      /* orange */
+    border-color: #e67e22;
+}
+
+.title-e {
+    color: #2ecc71;      /* vert */
+    border-color: #2ecc71;
+}
+
+.title-f {
+    color: #e74c3c;      /* rouge */
+    border-color: #e74c3c;
+}
